@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Main\\LINQ\\stream\\stream\\stream.csproj": {}
+    "C:\\Main\\Fo\\stream\\stream.csproj": {}
   },
   "projects": {
-    "C:\\Main\\LINQ\\stream\\stream\\stream.csproj": {
+    "C:\\Main\\Fo\\stream\\stream.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Main\\LINQ\\stream\\stream\\stream.csproj",
+        "projectUniqueName": "C:\\Main\\Fo\\stream\\stream.csproj",
         "projectName": "stream",
-        "projectPath": "C:\\Main\\LINQ\\stream\\stream\\stream.csproj",
+        "projectPath": "C:\\Main\\Fo\\stream\\stream.csproj",
         "packagesPath": "C:\\Users\\Yarik\\.nuget\\packages\\",
-        "outputPath": "C:\\Main\\LINQ\\stream\\stream\\obj\\",
+        "outputPath": "C:\\Main\\Fo\\stream\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

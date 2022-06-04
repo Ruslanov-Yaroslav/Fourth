@@ -40,3 +40,17 @@ C:\Main\LINQ\stream\stream\bin\Debug\netcoreapp3.1\stream.runtimeconfig.dev.json
 C:\Main\LINQ\stream\stream\bin\Debug\netcoreapp3.1\stream.dll
 C:\Main\LINQ\stream\stream\bin\Debug\netcoreapp3.1\stream.pdb
 C:\Main\LINQ\stream\stream\obj\Debug\netcoreapp3.1\stream.genruntimeconfig.cache
+C:\Main\Fo\stream\bin\Debug\netcoreapp3.1\stream.exe
+C:\Main\Fo\stream\bin\Debug\netcoreapp3.1\stream.deps.json
+C:\Main\Fo\stream\bin\Debug\netcoreapp3.1\stream.runtimeconfig.json
+C:\Main\Fo\stream\bin\Debug\netcoreapp3.1\stream.runtimeconfig.dev.json
+C:\Main\Fo\stream\bin\Debug\netcoreapp3.1\stream.dll
+C:\Main\Fo\stream\bin\Debug\netcoreapp3.1\stream.pdb
+C:\Main\Fo\stream\obj\Debug\netcoreapp3.1\stream.csproj.AssemblyReference.cache
+C:\Main\Fo\stream\obj\Debug\netcoreapp3.1\stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\Fo\stream\obj\Debug\netcoreapp3.1\stream.AssemblyInfoInputs.cache
+C:\Main\Fo\stream\obj\Debug\netcoreapp3.1\stream.AssemblyInfo.cs
+C:\Main\Fo\stream\obj\Debug\netcoreapp3.1\stream.csproj.CoreCompileInputs.cache
+C:\Main\Fo\stream\obj\Debug\netcoreapp3.1\stream.dll
+C:\Main\Fo\stream\obj\Debug\netcoreapp3.1\stream.pdb
+C:\Main\Fo\stream\obj\Debug\netcoreapp3.1\stream.genruntimeconfig.cache

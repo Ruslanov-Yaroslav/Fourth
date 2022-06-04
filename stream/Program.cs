@@ -1,4 +1,5 @@
-﻿using System;
+﻿using stream.Generic;
+using System;
 using System.Collections.Generic;
 
 namespace stream
@@ -23,6 +24,26 @@ namespace stream
             Console.WriteLine($"THX))) File in Path : {fileToWritePath}  was successfully written!))))");
 
             test.DeleteFilesFromPc();
+
+
+            //Generic Part
+            var person1 = new Person("Anna", 33);
+            var person2 = new Person("Kate", 33);
+            var person3 = new Person("Dan", 33);
+            var people = new List<Person>
+            {
+                person1,
+                person2,
+                person3
+            };
+            var cw = new FileWriter<Person>();
+            cw.Write(people, "C:\\Project\\person.csv");
+            var cr = new FileReader<Person>();
+            var csvPeople = cr.Read("C:\\Project\\person.csv", false);
+            foreach (var person in csvPeople)
+            {
+                Console.WriteLine(person);
+            }
         }
     }
 }
